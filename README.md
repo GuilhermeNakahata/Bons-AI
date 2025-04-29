@@ -1,4 +1,4 @@
-🌱 Bons-AI: An Agent-Based Model to evaluate the behavior of bonsai grower according to different levels of communication and experience 🌱
+🌱 <h1>**Bons-AI:** An Agent-Based Model to evaluate the behavior of bonsai grower according to different levels of communication and experience </h1> 🌱
 
 🎯 Objectives
 
@@ -12,6 +12,6 @@
 
 📝 License
 
-  This project is under the [MIT](./LICENSE) license.
+    This project is under the [MIT](./LICENSE) license.
 
 📬 For questions or collaborations, reach out to:
