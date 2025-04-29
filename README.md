@@ -12,6 +12,6 @@
 
 📝 License
 
-    This project is under the [MIT](./LICENSE) license.
+This project is under the [MIT](./LICENSE) license.
 
 📬 For questions or collaborations, reach out to:
