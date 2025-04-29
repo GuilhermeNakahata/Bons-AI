@@ -1,0 +1,6 @@
+Health Statistics:
+Média: 0.7244840182648402
+Mediana: 0.0
+Desvio Padrão: 6.318429280087318
+Mínimo: 0.0
+Máximo: 100.0

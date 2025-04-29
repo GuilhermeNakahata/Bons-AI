@@ -1,0 +1,6 @@
+Deaths Statistics:
+Média: 14.814821917808219
+Mediana: 16.0
+Desvio Padrão: 5.38729709419881
+Mínimo: 0
+Máximo: 23

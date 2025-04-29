@@ -1,0 +1,61 @@
+Style Statistics:
+
+Chokkan:
+  count: 3650.0
+  mean: 10.0
+  std: 0.0
+  min: 10.0
+  25%: 10.0
+  50%: 10.0
+  75%: 10.0
+  max: 10.0
+
+Moyogi:
+  count: 3650.0
+  mean: 7.0
+  std: 0.0
+  min: 7.0
+  25%: 7.0
+  50%: 7.0
+  75%: 7.0
+  max: 7.0
+
+Shakan:
+  count: 3650.0
+  mean: 4.0
+  std: 0.0
+  min: 4.0
+  25%: 4.0
+  50%: 4.0
+  75%: 4.0
+  max: 4.0
+
+Kengai:
+  count: 3650.0
+  mean: 4.0
+  std: 0.0
+  min: 4.0
+  25%: 4.0
+  50%: 4.0
+  75%: 4.0
+  max: 4.0
+
+Han-Kengai:
+  count: 3650.0
+  mean: 5.0
+  std: 0.0
+  min: 5.0
+  25%: 5.0
+  50%: 5.0
+  75%: 5.0
+  max: 5.0
+
+No style defined:
+  count: 3650.0
+  mean: 0.0
+  std: 0.0
+  min: 0.0
+  25%: 0.0
+  50%: 0.0
+  75%: 0.0
+  max: 0.0
