@@ -2,13 +2,13 @@
 
 🎯 Objectives
 
-    Simulate the dynamics of bonsai and bonsai grower among agents with diverse experience levels.
-    Model knowledge transmission using reinforcement learning (Q-learning).
-    Evaluate how communication improves bonsai health and style preservation.
+Simulate the dynamics of bonsai and bonsai grower among agents with diverse experience levels.
+Model knowledge transmission using reinforcement learning (Q-learning).
+Evaluate how communication improves bonsai health and style preservation.
 
 📊 Results
 
-    Results from the simulation, including bonsai health, inclination, Curvature and Deaths over time, can be found in the [Results](./Results) folder.
+Results from the simulation, including bonsai health, inclination, Curvature and Deaths over time, can be found in the [Results](./Results) folder.
 
 📝 License
 
